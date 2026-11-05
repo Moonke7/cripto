@@ -1,0 +1,7 @@
+.git
+*.pem
+*.pcap
+*.pcapng
+*.py
+*.md
+requirements.txt
